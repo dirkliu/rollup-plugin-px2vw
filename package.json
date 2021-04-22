@@ -1,0 +1,12 @@
+{
+  "name": "rollup-plugin-px2vw",
+  "version": "0.0.1",
+  "description": "A rollup plugin used to transform px to vw in stylesheets ",
+  "main": "index.js",
+  "repository": "git@github.com:dirkliu/rollup-plugin-px2vw.git",
+  "author": "dirkliu",
+  "license": "MIT",
+  "dependencies": {
+    "@rollup/pluginutils": "^4.1.0"
+  }
+}
